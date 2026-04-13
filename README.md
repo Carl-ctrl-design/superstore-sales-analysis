@@ -29,10 +29,10 @@ Indicates structural issues in pricing or cost
 Discounts above 20% consistently result in losses
 1,458 orders are loss-making due to excessive discounting
 Profit margin drops from +29.5% (no discount) to -119% (high discount)
-3. Regional Profitability Imbalance
-Central region has the lowest margin (7.9%)
-- Despite being 3rd highest in revenue
-Suggests inefficient pricing or aggressive discounting strategy
+3. **Regional Profitability Imbalance**
+   - Central region has the lowest margin (7.9%)
+   - Despite being 3rd highest in revenue
+   - Suggests inefficient pricing or aggressive discounting
 4. Technology Category Dominates
 Highest revenue AND highest profitability
 Represents the core growth driver of the business
@@ -46,3 +46,9 @@ More valuable than Consumer segment in profitability terms
 
 ## View Full Case Study
 https://carl-ctrl-design.github.io/C.Waiti/projects/retail-sales.html
+
+## Author
+**Carlton Waiti**
+BSc Economics and Finance | Kenyatta University
+Google Data Analytics Professional Certificate
+[LinkedIn](https://www.linkedin.com/in/carl-waiti) | [Portfolio](https://carl-ctrl-design.github.io/C.Waiti)
